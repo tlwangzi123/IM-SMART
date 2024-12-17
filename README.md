@@ -1,3 +1,1 @@
-# IM-SMART
-
-# <h1 align="center"> Rcode for proposed weighted log-rank statistic </h1>
+# <h1 align="center"> Rcode for proposed weighted log-rank statistic in IM-SMART </h1>
